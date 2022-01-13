@@ -21,6 +21,7 @@ const App = () => {
     const res = await fetch("/pokedex")
     const data = await res.json()
 
+    console.log(data)
     return data
   }
 
