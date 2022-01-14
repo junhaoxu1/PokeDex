@@ -1,3 +1,5 @@
+I've also published the currently used API for the code, but you can replace it with any other API.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
