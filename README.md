@@ -1,4 +1,4 @@
-I've also published the currently used API for the code, but you can replace it with any other API.
+I've also published the used API for this code, but you can replace it with any other API.
 
 # Getting Started with Create React App
 
