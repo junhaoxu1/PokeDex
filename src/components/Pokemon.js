@@ -14,8 +14,8 @@ const Pokemon = ({ pokemon, onDelete}) => {
                     onClick={() => onDelete(pokemon.id)} 
                 />
             </h3>
-            <p>{pokemon.dex}</p>
-            <p>{pokemon.type}</p>
+            <p>PokeDex Entry: {pokemon.dex}</p>
+            <p>Type: {pokemon.type}</p>
         </div>
     )
 }
